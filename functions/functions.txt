@@ -1,1 +1,6 @@
-function is a collection of code that does a specific task
+function (method) is a collection of code that does a specific task
+
+parameter is a value we give to a function
+
+Return Types
+void -> it means the function isn't gonna return any info
